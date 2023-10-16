@@ -1,6 +1,6 @@
 # Ingecard Clone
 
-> 💻 Página creada en proceso de aprendizaje de Astro, la página oficial se encuentra aquí: [Ingecard oficial](https://ingecard-clone.netlify.app/suscribete/)  
+> 💻 Página creada en proceso de aprendizaje de Astro, la página oficial se encuentra aquí: [Ingecard oficial](https://ingecard.netlify.app/)  
 
 ![just-the-basics](./readme-images/landing.png)
 
