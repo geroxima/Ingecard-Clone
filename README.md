@@ -1,6 +1,6 @@
 # Ingecard Clone
 
-> 💻 Página creada en proceso de aprendizaje de Astro, la página oficial se encuentra aquí: [Ingecard oficial](https://ingecard.netlify.app/). Todas las imágenes y recursos pertenecen a sus credores.
+> 💻 Página creada en proceso de aprendizaje de Astro, la página oficial se encuentra aquí: [Ingecard oficial](https://ingecard.com.py/). Todas las imágenes y recursos pertenecen a sus credores.
 
 ![just-the-basics](./readme-images/landing.png)
 
